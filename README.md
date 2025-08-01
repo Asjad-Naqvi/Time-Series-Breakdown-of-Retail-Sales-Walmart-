@@ -1,7 +1,10 @@
 # Time-Series-Breakdown-of-Retail-Sales-Walmart-
 This Retail Store sales analysis is a project as per my internship at @Elevvo as a data analyst
 Retail Sales Analysis & Forecasting
+
+
 📌 Project Overview
+
 This project analyzes Walmart retail sales data to uncover trends, seasonality, and store-level performance.
 It also demonstrates basic time-series analysis techniques such as moving averages and exponential smoothing for forecasting.
 
